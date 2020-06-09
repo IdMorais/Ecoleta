@@ -73,19 +73,20 @@ A criação desse projeto foi possível com as seguintes tecnologias:
 
 # Para clonar o repositório: 
  
-    $git clone https://github.com  
+  $git clone https://github.com/IdMorais/Ecoleta
+ 
 
 # Para entrar no diretório:
  
-    $cd ecoleta
+  $cd ecoleta
 
 # Para instalar as dependências:
 
-    $ npm install
+  $ npm install
 
 # Para executar a aplicação:
 
-    $npm start
+  $npm start
  
 ```
 
